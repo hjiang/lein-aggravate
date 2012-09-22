@@ -4,5 +4,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [com.yahoo.platform.yui/yuicompressor "2.4.2"]]
+                 [com.yahoo.platform.yui/yuicompressor "2.4.7"]]
   :eval-in-leiningen true)
